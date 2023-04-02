@@ -26,7 +26,7 @@ const Navbar = () => {
       </div>
       <ul
         className={`md:flex absolute md:static duration-500 ${
-          open ? "left-0 top-5 w-96 h-full" : "-left-96 top-5"
+          open ? "left-0 top-5 w-96 h-full" : "-left-96 top-5 h-full"
         } bg-purple-200 mt-5 p-4`}
       >
         {routes.map((route, index) => (
