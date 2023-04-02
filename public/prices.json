@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Bronze Membership",
+      "price": 50,
+      "features": [
+        "Access to gym equipment",
+        "Group fitness classes"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Silver Membership",
+      "price": 100,
+      "features": [
+        "Access to gym equipment",
+        "Group fitness classes",
+        "Personal training sessions"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Gold Membership",
+      "price": 150,
+      "features": [
+        "Access to gym equipment",
+        "Group fitness classes",
+        "Personal training sessions",
+        "Access to sauna and steam room"
+      ]
+    }
+  ]
+  
